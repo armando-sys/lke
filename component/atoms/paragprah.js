@@ -1,5 +1,5 @@
 
-export default function paragraph({
+export default function AtomText({
     customClass,
     value,
     size,
